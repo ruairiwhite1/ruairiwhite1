@@ -7,7 +7,7 @@
  - 🌱 I'm currently learning React, Kotlin & Elixir
  - 👯 I'm looking to collaborate on full stack web apps!
  - 🤔 I'm looking for help with Typescript and React
- - 💬 Ask me about Discord, Minecraft, Disney
+ - 💬 Ask me about Discord, JS, Spigot
  - 📫 How to reach me: Discord: Ruairiw8#0001 
  - 😄 Pronouns: he/him
 
