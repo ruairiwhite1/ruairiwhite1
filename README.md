@@ -3,7 +3,7 @@
 
 <h3>who am i?</h3>
 
- - 🔭 I'm currently working on Wonder Network a Minecraft Theme Park Server [DiscordServer](https://discord.gg/va9g5K3fjs) & Imagination Bot a multipurpose Discord bot written in TypeScript
+ - 🔭 I'm currently working on Imagination Bot a multipurpose Discord bot written in TypeScript
  - 🌱 I'm currently learning React, Kotlin & Elixir
  - 👯 I'm looking to collaborate on full stack web apps!
  - 🤔 I'm looking for help with Typescript and React
