@@ -1,7 +1,7 @@
 
 <h1>Greetings!! :wave:</h1>
 
-<h3>who am i?</h3>
+<h3>Who am i?</h3>
 
  - 🔭 I'm currently working on Imagination Bot a multipurpose Discord bot written in TypeScript
  - 🌱 I'm currently learning React, Kotlin & Elixir
